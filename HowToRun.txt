@@ -1,0 +1,5 @@
+- Mở cmd hay terminal
+- cd đến thư mục chứa project
+- Chạy "conda activate min_ds-env" để active môi trường code
+- "jupyter notebook" để mở jupyter notebook
+- Chọn file 19127472_19127481.ipynb
